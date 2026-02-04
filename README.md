@@ -2,7 +2,7 @@
 
 ![profile view count](https://komarev.com/ghpvc/?username=avic7)
 
-I’m an Aspiring Data Analyst/Scientist with a B.E. in Computer Engineering (Mumbai University) and a Master of Data Science (University of Guelph). I’m skilled in Excel, Tableau, Looker Studio, R, and building interactive RShiny apps ⚡. Through my experience as a Data Science & Analytics Intern and a GRA – Data Analyst (R), I’ve focused on data cleaning, visualization, and insights. I’m currently exploring AI and [dataviz](https://uxmag.medium.com/the-ultimate-data-visualization-handbook-for-designers-efa7d6e0b6fe) to make data more actionable. Outside of data, I enjoy playing [Football Manager](https://www.footballmanager.com), [Fantasy Premier League](https://fantasy.premierleague.com), [Assassins Creed](https://www.ubisoft.com/en-ca/game/assassins-creed), supporting Manchester City FC 💙, and watching Chinese & Turkish dramas 📺.
+I’m a Data Analyst/Scientist with a B.E. in Computer Engineering (Mumbai University) and a Master of Data Science (University of Guelph). I’m skilled in Excel, Tableau, Looker Studio, R, and building interactive RShiny apps ⚡. Through my experience as a Data Science & Analytics Intern and a GRA – Data Analyst (R), I’ve focused on data cleaning, visualization, and insights. I’m currently exploring AI and [dataviz](https://uxmag.medium.com/the-ultimate-data-visualization-handbook-for-designers-efa7d6e0b6fe) to make data more actionable. Outside of data, I enjoy playing [Football Manager](https://www.footballmanager.com), [Fantasy Premier League](https://fantasy.premierleague.com), [Assassins Creed](https://www.ubisoft.com/en-ca/game/assassins-creed), supporting Manchester City FC 💙, and watching Chinese & Turkish dramas 📺.
 
 
 
